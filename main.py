@@ -8,3 +8,6 @@ def saludo2():
 
 def saludo3():
     print("Conflicto1")
+
+x = 10
+print(x)
