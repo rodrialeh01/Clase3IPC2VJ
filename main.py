@@ -5,3 +5,6 @@ def hola_mundo():
 
 def saludo2():
     print("Hola mundo!")
+
+def saludo3():
+    print("Conflicto1")
