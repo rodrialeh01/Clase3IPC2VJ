@@ -13,3 +13,6 @@ def saludo3():
     print("Conflicto1")
 
 print(":D")
+
+x = 10
+print(x)
